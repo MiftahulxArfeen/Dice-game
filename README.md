@@ -2,6 +2,7 @@
 I created a beautiful, well designed UI interface and fully functional Dice game using JavaScript, HTML and CSS. 
 
 Functionality of this game:-----
+
 • In this game you have two interface, one for player 1 and another for player 2.
 
 • Active player have to roll dice by clicking on ROLL DICE button and the score always get added to the current score until the dice number comes 1, then you lose all the current score.
